@@ -11,8 +11,7 @@ This is my first web development project built using HTML, CSS, and JavaScript.
 
 ## Technologies Used
 - HTML
-- CSS
-- JavaScript
+  
 
 ## Future Improvements
 - Responsive design
